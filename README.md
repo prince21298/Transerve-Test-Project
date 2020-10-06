@@ -20,11 +20,12 @@ After that you have to run this command step by step.
         npm i knex -g
 
 `node`
+
 `postgres`
 
 
 
-you also can try with API which I hosted
+### You also can try with API which I hosted
 Most Of the API only admin can Access
 
 `GET`
@@ -86,4 +87,6 @@ for Delete task of normal users only admin can Delete:
 
         http://13.232.32.187:4001/delete_assignment/{taskId}
 
+#### For run this API you Need to Install Postman or you also can use Postman Extension
 
+                https://interstellar-crater-6826.postman.co
